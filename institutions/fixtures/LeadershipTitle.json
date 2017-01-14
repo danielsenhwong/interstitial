@@ -1,0 +1,75 @@
+[{
+    "fields": {
+        "title": "Principal Investigator",
+        "title_abbrev": "PI",
+    },
+    "model": "institutions.LeadershipTitle",
+    "pk": 1
+},
+{
+    "fields": {
+        "title": "Chair",
+    },
+    "model": "institutions.LeadershipTitle",
+    "pk": 2
+},
+{
+    "fields": {
+        "title": "Director",
+    },
+    "model": "institutions.LeadershipTitle",
+    "pk": 3
+},
+{
+    "fields": {
+        "title": "Manager",
+    },
+    "model": "institutions.LeadershipTitle",
+    "pk": 4
+},
+{
+    "fields": {
+        "title": "Principal",
+    },
+    "model": "institutions.LeadershipTitle",
+    "pk": 5
+},
+{
+    "fields": {
+        "name": "Contract",
+    },
+    "model": "institutions.FundingType",
+    "pk": 1
+},
+{
+    "fields": {
+        "name": "Cooperative",
+        "short_name": "Co-op",
+    },
+    "model": "institutions.FundingType",
+    "pk": 2
+},
+{
+    "fields": {
+        "name": "Donation/Gift",
+    },
+    "model": "institutions.FundingType",
+    "pk": 3
+},
+{
+    "fields": {
+        "name": "Grant",
+    },
+    "model": "institutions.FundingType",
+    "pk": 4
+},
+{
+    "fields": {
+        "name": "Fellowship",
+    },
+    "model": "institutions.FundingType",
+    "pk": 5
+}
+
+]
+
